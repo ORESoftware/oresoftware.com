@@ -8,6 +8,7 @@ if ! (command -v static) &> /dev/null; then
    }
 fi
 
+echo 'oresoftware.com' >> public/CNAME
 cd public && static .
 
 )

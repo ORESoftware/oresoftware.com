@@ -4,3 +4,9 @@
 [submodule "themes/nuo"]
 	path = themes/nuo
 	url = https://github.com/laozhu/hugo-nuo
+[submodule "themes/even"]
+	path = themes/even
+	url = https://github.com/olOwOlo/hugo-theme-even
+[submodule "themes/bigspring-light"]
+	path = themes/bigspring-light
+	url = https://github.com/themefisher/bigspring-light
