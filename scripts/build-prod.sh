@@ -1,3 +1,9 @@
 #!/usr/bin/env bash
 
-hugo -D -b 'http://oresoftware.com/'
+set -e -o pipefail
+
+(
+  rm -rf public
+  hugo -D -b 'http://oresoftware.com/'
+  echo 'oresoftware.com' >> public/CNAME
+)

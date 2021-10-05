@@ -1,4 +1,4 @@
 baseURL = 'http://oresoftware.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "bigspring-light"
+title = 'ORESoftware'
+theme = "ananke"

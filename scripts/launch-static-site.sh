@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+set -e -o pipefail
+
+
 (
 
 if ! (command -v static) &> /dev/null; then
