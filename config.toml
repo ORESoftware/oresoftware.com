@@ -2,3 +2,5 @@ baseURL = 'http://oresoftware.com/'
 languageCode = 'en-us'
 title = 'ORESoftware'
 theme = "ananke"
+custom_css = ["css/custom.css"]
+custom_js = ["js/custom.js"]
