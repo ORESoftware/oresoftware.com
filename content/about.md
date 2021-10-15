@@ -14,15 +14,12 @@ Our focus is on complex people-oriented systems, where we leverage operations re
 
 Currently working with naturally collaborative industries to create B2B software that allows for more facilitated intercommunication between business organizations.
 
-ORESoftware has expertise in  development with full-stack JavaScript <br>
-frameworks,  Java EE, P
-
 Expertise in:
 
 * software architecture
-* gcp/aws
-* asynchronous and evented systems
-* devops/production on clustering technologies (eg, kubernetes, apache mesos)
 * data pipelines and data engineering
+* gcp/aws
+* devops/production on clustering technologies (eg: kubernetes, apache mesos)
+* asynchronous and evented systems
 * machine learning
 * data visualization
