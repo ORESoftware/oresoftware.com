@@ -4,6 +4,6 @@ set -e -o pipefail
 
 (
   rm -rf public
-  hugo -D -b 'http://oresoftware.com/'
-  echo 'oresoftware.com' >> public/CNAME
+  hugo -d 'public' -D -b 'http://oresoftware.com/'
+  echo 'oresoftware.com' > public/CNAME
 )

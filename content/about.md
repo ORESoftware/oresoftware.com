@@ -1,11 +1,10 @@
 ---
-title: "About ORESoftware"
+title: "About"
 date: 2021-10-05T09:38:20-07:00
 menu: "main"
 
 ---
-
-## **O***perations*   **R***esearch*   **E***ngineering*   **S***oftware*
+{{< figure src="/images/Oresoftwaretransparent.png">}}
 
 
 ORESoftware is a developer shop and IT consultancy. 
@@ -16,10 +15,12 @@ Currently working with naturally collaborative industries to create B2B software
 
 Expertise in:
 
-* software architecture
-* data pipelines and data engineering
-* gcp/aws
-* devops/production on clustering technologies (eg: kubernetes, apache mesos)
-* asynchronous and evented systems
-* machine learning
-* data visualization
+* Software Architecture
+* Data Pipelines and Data Engineering
+* Cloud software including: GCP, AWS
+* Devops/Production on clustering technologies (eg: kubernetes, apache mesos)
+* Asynchronous and evented systems
+* Machine Learning
+* Data Visualization
+
+https://www.linkedin.com/company/oresoftware/
